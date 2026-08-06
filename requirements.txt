@@ -1,0 +1,9 @@
+streamlit
+openai
+bcrypt
+openpyxl
+pandas
+langchain-core
+langchain-openai
+langchain-chroma
+chromadb

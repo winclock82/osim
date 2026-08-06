@@ -1,0 +1,80 @@
+{
+  "year": 2026,
+  "country": "Singapore",
+  "source": "Ministry of Manpower (MOM)",
+  "public_holidays": [
+    {
+      "date": "2026-01-01",
+      "day": "Thursday",
+      "name": "New Year's Day"
+    },
+    {
+      "date": "2026-02-17",
+      "day": "Tuesday",
+      "name": "Chinese New Year (Day 1)"
+    },
+    {
+      "date": "2026-02-18",
+      "day": "Wednesday",
+      "name": "Chinese New Year (Day 2)"
+    },
+    {
+      "date": "2026-03-21",
+      "day": "Saturday",
+      "name": "Hari Raya Puasa"
+    },
+    {
+      "date": "2026-04-03",
+      "day": "Friday",
+      "name": "Good Friday"
+    },
+    {
+      "date": "2026-05-01",
+      "day": "Friday",
+      "name": "Labour Day"
+    },
+    {
+      "date": "2026-05-27",
+      "day": "Wednesday",
+      "name": "Hari Raya Haji"
+    },
+    {
+      "date": "2026-05-31",
+      "day": "Sunday",
+      "name": "Vesak Day"
+    },
+    {
+      "date": "2026-06-01",
+      "day": "Monday",
+      "name": "Vesak Day (In Lieu)",
+      "note": "Public holiday in lieu if rest day falls on 31 May 2026"
+    },
+    {
+      "date": "2026-08-09",
+      "day": "Sunday",
+      "name": "National Day"
+    },
+    {
+      "date": "2026-08-10",
+      "day": "Monday",
+      "name": "National Day (In Lieu)",
+      "note": "Public holiday in lieu if rest day falls on 9 August 2026"
+    },
+    {
+      "date": "2026-11-08",
+      "day": "Sunday",
+      "name": "Deepavali"
+    },
+    {
+      "date": "2026-11-09",
+      "day": "Monday",
+      "name": "Deepavali (In Lieu)",
+      "note": "Public holiday in lieu if rest day falls on 8 November 2026"
+    },
+    {
+      "date": "2026-12-25",
+      "day": "Friday",
+      "name": "Christmas Day"
+    }
+  ]
+}
