@@ -28,7 +28,7 @@ else:
 st.divider()
 st.caption(
     "⚠️ **IMPORTANT NOTICE:** This web application is a proof-of-concept prototype for the "
-    "Operational System Information Manager (OSIM). The job information and Q&A responses "
+    "Operational Scheduling Information Manager (OSIM). The job information and Q&A responses "
     "provided here are NOT intended for production use and should not be relied upon for "
     "operational decisions or incident management.\n\n"
     "The AI assistant may generate inaccurate or incomplete information about job schedules, "
