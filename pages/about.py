@@ -113,9 +113,12 @@ st.markdown(
 st.header("👥 Project Team")
 st.markdown(
     """
-    This proof-of-concept was developed as a capstone project.
+    This proof-of-concept was developed as a web-based application based on problem statements from an agency (Project Type 1).
 
-    *Replace this section with your team members, roles, and organisation.*
+    **Kenneth NG*** — Developer, CPFB
+    **Sandar WIN*** — Developer, CPFB 
+    **Dorris TAN*** — Developer, CPFB 
+    
     """
 )
 
