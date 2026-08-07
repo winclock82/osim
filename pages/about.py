@@ -115,9 +115,9 @@ st.markdown(
     """
     This proof-of-concept was developed as a web-based application based on problem statements from an agency (Project Type 1).
 
-    **Kenneth NG*** — Developer, CPFB
-    **Sandar WIN*** — Developer, CPFB 
-    **Dorris TAN*** — Developer, CPFB 
+    - **Kenneth NG** — Developer, CPFB
+    - **Sandar WIN** — Developer, CPFB 
+    - **Dorris TAN** — Developer, CPFB 
     
     """
 )
